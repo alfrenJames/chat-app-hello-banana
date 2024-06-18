@@ -34,22 +34,21 @@ Now install the dependencies
 -> go to the terminal
 cd server
 npm install 
-cd ..
+
 cd public
 npm install
 
 start running the server and frontend
 
 For backend.
-cd public
+cd server
 npm start
 
 For frontend.
-cd 
+cd public
 npm start
-
 
 This will open up the browser in port 3000 as default in react
 -> add new accounts atleast two
 -> login the two accounts on diff browser
--> start chatting and enjoy 🍌
+-> start chatting and enjoy 🐵🐒🍌
